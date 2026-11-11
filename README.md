@@ -1,6 +1,11 @@
 # Poetic Atlas – AI Application
 
 This is a prototype application for the semi-automated creation of a poetic atlas.
+It is part of the experimental project [Atlas](https://www.gralis2.at/gralis/projektarium/Atlas/index_atlas.xml)
+(GRALIS Projektarium).
+
+**Web application:** <https://poetic-atlas.onrender.com/>
+
 The application provides:
 
 - input of a poem or a prose passage;
@@ -49,12 +54,28 @@ Anthropic / Claude does not generate images, so with it the application provides
 
 The images are stored in the atlas JSON (base64), so a saved atlas is larger than before. Atlases saved earlier, with SVG drawings, can still be loaded and displayed.
 
-## Ideas for extension
+## Authors
 
-For a scholarly version, it is recommended to add:
+- [Marija Đokić Petrović](https://marijadjokicpetrovic.com)
 
-- a side-by-side comparison of several models for the same text;
-- manual validation and correction of the elements;
-- export to CSV/JSON/RDF;
-- storage of results by text, model and date;
-- a dedicated module for archaisms and non-standard linguistic forms.
+## How to cite
+
+This application is part of the experimental project
+[Atlas](https://www.gralis2.at/gralis/projektarium/Atlas/index_atlas.xml) (GRALIS Projektarium).
+Until a publication about it is available, please cite it as software, by its source code:
+
+> Đokić Petrović, M. (2026). *Poetic Atlas – AI Application* [Computer software]. GitHub.
+> https://github.com/marijadjokic/poetski_atlas_app
+
+BibTeX:
+
+```bibtex
+@software{djokic_petrovic_2026_poetic_atlas,
+  author    = {Đokić Petrović, Marija},
+  title     = {Poetic Atlas – AI Application},
+  year      = {2026},
+  publisher = {GitHub},
+  url       = {https://github.com/marijadjokic/poetski_atlas_app},
+  note      = {Web application: https://poetic-atlas.onrender.com/}
+}
+```

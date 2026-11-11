@@ -1,0 +1,62 @@
+{
+  "provider": "Anthropic / Claude",
+  "model": "claude-sonnet-5-5",
+  "language": "English",
+  "text": "Sonnet 130: My mistress’ eyes are nothing like the sun\n\nMy mistress’ eyes are nothing like the sun;\nCoral is far more red than her lips' red;\nIf snow be white, why then her breasts are dun;\nIf hairs be wires, black wires grow on her head.\nI have seen roses damasked, red and white,\nBut no such roses see I in her cheeks;\nAnd in some perfumes is there more delight\nThan in the breath that from my mistress reeks.\nI love to hear her speak, yet well I know\nThat music hath a far more pleasing sound;\nI grant I never saw a goddess go;\nMy mistress, when she walks, treads on the ground.\n   And yet, by heaven, I think my love as rare\n   As any she belied with false compare.",
+  "elements": {
+    "space": [
+      "No fixed physical setting is named. The poem takes place in the speaker's act of looking at and listening to a woman, so the space is a close, intimate field of observation centered on her body: eyes, lips, breasts, hair, cheeks, breath, voice, and the way she walks.",
+      "A second, imagined space of comparison sits beside the real woman. It holds the sun, coral, snow, wires, damask roses (red and white), perfumes, music, and a goddess walking. These are the conventional images of idealized love poetry, and the speaker sets each one against the woman in front of him.",
+      "The final space is the plain earth. The woman 'treads on the ground', in contrast to a goddess, who would be imagined as moving above ordinary ground. The poem moves from the heavens (sun, goddess, 'by heaven') down to the ground."
+    ],
+    "time": [
+      "The poem is set in the present tense of the speaker's observation ('are', 'see I', 'I love', 'I think'). It reads as a continuous, ongoing assessment of the beloved rather than a narrated event.",
+      "Brief references to past experience appear ('I have seen roses damasked', 'I never saw a goddess go'). They serve as evidence from the speaker's past that he draws on when judging what he sees now.",
+      "Behind the poem lies a time of established convention, a long habit of poets praising a beloved with stock comparisons. The text signals this only through its mocking echo of those comparisons ('any she belied with false compare'), without naming any period or tradition.",
+      "The final couplet gives a moment of turning ('And yet'), in which the list of denials gives way to a lasting declaration of love."
+    ],
+    "characters_or_voices": [
+      "The speaker is a male lover (the 'I'), candid, ironic, and plain-spoken. He presents himself as an honest witness who refuses to flatter, yet he is also devoted to the woman. His voice is humorous and blunt in the first twelve lines and becomes sincere and firm in the final two.",
+      "The 'mistress' is the beloved, a silent and physically present woman. She is described only through her body and her ordinary movements, and she never speaks in the poem, although her speech is something the speaker loves to hear. She is a real, unidealized person.",
+      "The 'false' poets or love-poetry convention is an implied, absent voice. It is the target of the speaker's satire, the tradition that compares women to suns, snow, roses and goddesses. These rivals are not characters but are present as the echo of inflated praise.",
+      "The implied reader or listener is addressed indirectly. The speaker's oath 'by heaven' and the phrase 'I grant' suggest someone he wants to convince of his honesty."
+    ],
+    "motifs": [
+      "Anti-idealization: each conventional ideal of beauty is deliberately denied: radiant eyes, red lips, white skin, golden hair, rosy cheeks, sweet breath, musical voice, goddess-like movement.",
+      "Nature and precious things as measures of beauty: the sun, coral, snow, wires, roses, perfume, and music are lined up as benchmarks that the woman does not meet.",
+      "Color: red (coral, lips, roses), white (snow, roses), dun (a dull grayish-brown), and black (hair) are used to compare the ideal with the real.",
+      "The body as inventory: the poem moves through eyes, lips, breasts, hair, cheeks, breath, voice, and feet, as though cataloguing and testing a person part by part.",
+      "The senses: sight (eyes, color), smell (perfume, breath), hearing (speech, music), and movement (walking). The beloved is judged through direct perception.",
+      "Honesty versus flattery, truth versus 'false compare': the speaker values realistic description and sees exaggerated praise as a kind of lie.",
+      "Earth versus heaven, the human versus the divine: the goddess who 'goes' is set against the woman who 'treads on the ground'.",
+      "Love that persists in spite of flaws, and even because of them: the couplet affirms that the beloved is 'rare', that is, exceptional, precisely without any false adornment."
+    ],
+    "artistic_procedures": [
+      "Sustained parody and inversion of the Petrarchan blazon, the convention of praising a woman's features with extravagant comparisons. Here the comparisons are used only to be denied.",
+      "Anaphora-like repeating structure through negation: the first twelve lines are built on a pattern of 'X is not like Y', which creates a rhythmic list of shortcomings.",
+      "Hyperbole in reverse and understatement: the woman's features are described as unimpressive in a deliberately blunt, comic way ('black wires grow on her head', 'the breath that from my mistress reeks').",
+      "Irony and humor, in which the reader expects praise and receives mockery. The comedy is gradually redirected toward a serious claim.",
+      "Concrete, tactile imagery, with earthy and even unflattering words such as 'dun', 'wires', 'reeks', and 'treads', in place of the refined vocabulary of conventional love poetry.",
+      "Simile and comparison are used as a structure ('nothing like', 'more red than', 'more delight than', 'more pleasing sound') and are then rejected, so the device is the subject of the poem as well as its method.",
+      "Structure of the English (Shakespearean) sonnet: three quatrains of 'argument' and a closing couplet that provides the turn ('And yet'), with an ABAB CDCD EFEF GG rhyme scheme.",
+      "Volta, or turn, in the final couplet. A sudden shift from mockery to a sincere oath ('by heaven') reframes everything before it.",
+      "Paradox: the speaker insults his beloved's appearance in order to praise her love's truth, so that honest imperfection becomes a form of greater praise.",
+      "Mock-oath and direct address in the final lines ('by heaven', 'I grant') lend the voice a conversational, confessional tone.",
+      "Parallel construction in the quatrains, where each line or pair of lines treats one feature, creating a feeling of an orderly examination."
+    ],
+    "atmosphere": [
+      "Playful, teasing, and ironic, with an air of comic frankness at the expense of both the beloved's supposed flaws and poetic cliché.",
+      "Down-to-earth, realistic, and unromantic on the surface, with a sense of plainness and everyday physicality.",
+      "Warm and tender underneath, with the affection becoming clear in the closing lines.",
+      "A mood of quiet defiance and confidence: the speaker is sure of his judgment and unashamed of loving an ordinary person.",
+      "Overall movement from mock-critical coolness to sincere, settled devotion."
+    ]
+  },
+  "elements_interpretation": "Taken together, the elements suggest a poem that works by stripping away false ornament in order to arrive at something more genuine. The imagined space of ideal comparisons (sun, coral, snow, roses, music, goddess) is set against the plain physical space of a real woman who walks on the ground, and the structure of denial in the first twelve lines makes the reader expect disappointment before the final couplet reverses that expectation. The speaker's voice is the central element: he is both a satirist of conventional love poetry and a lover, and his honesty is what gives his final declaration its weight. One possible interpretive direction is that the poem argues for a love based on the real person rather than on an idealized image, so that to call her ordinary is not to diminish her but to free her from 'false compare'. Another possibility is that the poem is mainly a literary joke, a comment on poetic fashion, with the beloved serving as the occasion for it, and the silence of the woman invites the question of whether she is truly seen or merely used as a foil. A third possibility is that the irony itself is a form of intimacy, since only someone who knows her well could tease her so freely. The dominant atmosphere, playful and plain but tender, supports a reading in which humor and sincerity are not opposed but are two ways of expressing the same affection.",
+  "illustration": {
+    "error": "Anthropic / Claude does not generate images, so the atlas has no illustration. Choose OpenAI / GPT to generate it."
+  },
+  "animation": {
+    "error": "Anthropic / Claude does not generate images, so the atlas has no animation. Choose OpenAI / GPT to generate it."
+  }
+}

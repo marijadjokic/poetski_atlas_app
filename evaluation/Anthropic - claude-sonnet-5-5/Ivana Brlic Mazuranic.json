@@ -1,0 +1,63 @@
+{
+  "provider": "Anthropic / Claude",
+  "model": "claude-sonnet-5-5",
+  "language": "English",
+  "text": "Čudnovate zgode inuša Hlapića \n\nBio je neki mali cipelarski šegrt ili inuš, ki nije imao ni oca ni majke. Zvao se je Hlapić. \nHlapić je bio malen kot lakat, a veseo kot ptica. Cijel dan je sidio u poderani hlača i črljenoj košulji na malom cipelarskom stolcu, ki je imao tri noge, i cijeli dan je zabijao cveke u čizme i šio cipele. Cijeli dan je fućkao i pjevao pri poslu. \nHlapićev gospodar zvao se majstor Mrkonja, a bio je zao i strašan. Tako je bio velik, da mu je glava dosigala do plafona u njihovoj maloj sobi. Imao je guste, kuštrave vlase kot lav, a duge brke (mustaće) do ramena. Njegov glas bio je tako jak i gruban kot u medvida. \nMajstoru Mrkonji dogodila se je jedanput u životu velika žalost i nesrića, pa je odonda bio vrlo tvrdoga srca. Kakova se je nesrića dogodila majstoru Mrkonji, to će se istom mnogo kasnije iz ove knjige doznati. \nMajstor Mrkonja bio je ada tvrdoga srca i vrlo nepravičan, pa je psovao i vikao na Hlapića kad god je bio zlovoljan. \nMajstorica je bila jako dobra. I njoj se je dogodila ista žalost kot i majstoru Mrkonji. No ona je od te dobe postala još bolja i imala je vrlo dobro srce. Hlapića je jako ljubila. \nAli i ona se je bojala majstora Mrkonje. Kad god je nosila Hlapiću friškoga kruha, uvijek ga je sakrivala pod pregaču, da majstor ne vidi, jer je majstor zapovidao, da se Hlapiću daje on tvrdi i stari kruh, a majstorica je znala, da Hlapić rado ji meki krušac. \nHlapić je imao samo jedne poderane hlače i još jedne, ke mu je majstorica načinila od zelenoga sukna. To sukno je bilo ostalo od majstorove zelene pregače, pa je majstor zapovidao svojoj ženi, da načini od toga Hlapiću hlače. Hlapić je imao u ti hlača tako zelene noge kot žaba, zato ih nije rado nosio, jer su mu se drugi šegrti rugali. Majstor Mrkonja je zapovidao, da ih mora nositi u nedilju. Hlapić je bio uvijek dobre volje, ter kad je vidio da mora nositi te hlače, počeo se i sam šaliti. Kreketao je „kre-kre“ kot žaba, kad god si je oblikao zelene hlače. \nKad su vidili drugi šegrti, da se Hlapić šali, nisu mu se već rugali, nego su se igrali s njim po nedilje i vrlo su ga ljubili. Samo majstor Mrkonja nije smio viditi, da se Hlapić igra, jer bi ga on odmah otirao domom. Tako je živio Hlapić kod majstora Mrkonje i nije mu bilo dobro. Ali on bi bio ipak bogzna kako dugo ostao ondje, da se nije dogodilo nešto, ča je Hlapića preveć ražalostilo.",
+  "elements": {
+    "space": [
+      "A small cobbler's workshop that is also the living room of the household. It is so cramped that the master's head reaches the ceiling (plafond), which makes the space feel like a confining box for the apprentice.",
+      "In the workshop, a small three-legged cobbler's stool where the boy sits all day hammering tacks into boots and sewing shoes. This is the exact spot where Hlapić's life and work take place.",
+      "The space where the apprentices play on Sundays, away from the master's eyes. The master must not see it, or he would send Hlapić home immediately. It is a hidden, borrowed space of freedom and friendship.",
+      "The hiding place under the mistress's apron, where she smuggles fresh bread so the master will not see it. It is a small, intimate space of secret kindness inside a harsh household.",
+      "The setting is not named by place. There is no street, town or landscape beyond the workshop. The world of the opening is closed and domestic, with the outside only hinted at (the 'home' he could be sent to, and 'something' that will happen later)."
+    ],
+    "time": [
+      "A recurring daily routine, stressed by the repeated phrase 'all day' (cijel dan): sitting, hammering, sewing, whistling and singing without a break. Time feels monotonous and cyclical.",
+      "The weekly rhythm of work days versus Sunday (nedilja). On Sunday Hlapić must wear the green trousers, and then the other apprentices play with him.",
+      "A past narrative tense in the manner of a fairy tale or storybook opening ('Bio je neki...' / 'There was a...'). The period is not stated precisely, but it is a time of craft workshops, apprenticeship and hand-made shoes, with no technology beyond hammers, tacks, cloth and bread.",
+      "A sense of long endurance ('he would have stayed there for who knows how long'), suddenly interrupted by an approaching event. The text looks ahead to a later revelation about the master's past sorrow ('much later in this book') and to the coming event that grieves Hlapić too much. The time structure is built on delayed information and anticipation.",
+      "The past tragedy shared by the master and mistress, never described, lies behind the present. It is a hidden earlier time that shapes the household's current mood."
+    ],
+    "characters_or_voices": [
+      "Hlapić: a small orphan apprentice (inuš, šegrt) without father or mother, 'as small as an elbow-length' (malen kot lakat) and 'cheerful as a bird'. He wears ragged trousers and a red shirt and whistles and sings while he works. He is resilient, good-humoured, and turns mockery into play by croaking like a frog in his green trousers.",
+      "Master Mrkonja: the cobbler and Hlapić's master. He is huge, with a head touching the ceiling, thick shaggy hair like a lion, long moustache down to his shoulders and a voice as rough as a bear's. He is angry, unjust and hard-hearted, shouts and swears at the boy when in a bad mood, orders him to be given hard old bread, and forbids his playing. His harshness is explained by a great sorrow he suffered once.",
+      "The mistress (majstorica): Mrkonja's wife, very good and kind. She suffered the same sorrow but became even kinder. She loves Hlapić and secretly brings him fresh bread, but she fears her husband, so her goodness is cautious and hidden.",
+      "The other apprentices: first they mock Hlapić for his green trousers, then, seeing him joke, they stop teasing, play with him on Sundays and love him. They represent a community that is won over by good humour.",
+      "The narrator: a warm, storytelling voice addressed to a child reader. It uses simple sentences, explains words in brackets (mustaće), comments on the book's structure ('this will be learned much later from this book') and sets up expectation of a coming sorrow. It is in a mixed Croatian dialect or kajkavian-čakavian-flavoured speech (kot, ki, cijel, nedilja, ča), which gives the voice a regional, folk character."
+    ],
+    "motifs": [
+      "Orphanhood and poverty: a boy without parents, with only one pair of ragged trousers and one pair of green ones, who works from morning to night.",
+      "Contrast between hard and soft: hard old bread vs. soft fresh bread, the hard-hearted master vs. the kind mistress. Bread stands for care, cruelty and secret tenderness.",
+      "Hidden kindness: fresh bread concealed under the apron, showing goodness that must stay secret under oppressive power.",
+      "The green trousers: a mark of humiliation (made from the master's leftover apron cloth, mocked by others) that Hlapić transforms into a joke by croaking like a frog. Clothing is a sign of status, shame and, in the end, playful resilience.",
+      "Singing, whistling and laughter as a form of inner freedom during forced labour.",
+      "Sorrow that makes people either harder (the master) or gentler (the mistress): one shared loss, two opposite reactions. The cause is withheld, creating mystery.",
+      "Play and friendship against fear: Sunday games that must be hidden from the master.",
+      "The threat of expulsion ('he would send him home at once') and the announced upcoming event, a looming change that will break the fragile balance."
+    ],
+    "artistic_procedures": [
+      "Similes drawn from animals and nature: small as an elbow, cheerful as a bird, hair like a lion, voice like a bear, legs green like a frog. The animal comparisons make the characters immediately visual and fairy-tale-like, and set the small bird-like boy against the large beast-like master.",
+      "Strong contrast and exaggeration (hyperbole): tiny Hlapić against the giant master whose head touches the ceiling, cheerful against grim, good mistress against evil master.",
+      "Repetition: 'cijel dan' (all day) repeated for work, whistling and singing, creating a rhythmic, lullaby-like effect that conveys monotony and perseverance.",
+      "Onomatopoeia and humour: 'kre-kre' for the croaking frog, a playful sound that shows how Hlapić turns humiliation into a game.",
+      "Narrative suspense and prolepsis: the narrator announces a sorrow whose nature will only be revealed 'much later', and a coming event that will grieve Hlapić. This hooks the reader and creates anticipation.",
+      "Simple, direct fairy-tale diction and parataxis: short coordinated sentences, a formulaic opening ('Bio je neki...'), clear moral polarity, characters introduced by one defining trait each.",
+      "Direct address to the reader's understanding through a gloss in brackets (mustaće) and meta-references to 'this book', giving a didactic, storybook tone.",
+      "Dialect colouring and regional vocabulary (kot, ki, ča, nedilja, vlase, cveke) that gives a folk, oral, intimate quality to the narration.",
+      "Colour symbolism: red shirt and green trousers, bright patches of colour in an otherwise grey workshop world."
+    ],
+    "atmosphere": [
+      "Warm and gentle, fairy-tale-like, yet shadowed by hardship: the cheerfulness of a child inside a harsh, confining world.",
+      "Tension between oppression and resilience: fear of the master and unjust treatment, balanced by Hlapić's humour, singing and the love of the mistress and fellow apprentices.",
+      "Humorous and tender in the frog trousers episode, with playful lightness.",
+      "An ominous undertone at the end: the calm of routine is about to be broken by an unnamed grief, so the mood is expectant and melancholy."
+    ]
+  },
+  "elements_interpretation": "The elements build a small, closed world in which a tiny, cheerful orphan lives under a giant, hard-hearted master. The cramped workshop and the repetition of 'all day' create a sense of confinement and endless labour, while the animal similes and the clear fairy-tale contrasts (small and large, soft and hard bread, kind mistress and harsh master) make the moral structure easy to read. Hlapić's resilience is the centre of the passage: he answers humiliation (the green trousers) with play (the frog's 'kre-kre') and so wins the other apprentices over, which suggests that good humour can be a quiet form of strength. Kindness survives only in hidden forms (bread under the apron, Sunday games out of sight), which can be read as a possible comment on how warmth persists under authority. The shared, unexplained sorrow of the master and mistress, who reacted in opposite ways, is a possible interpretive thread about how suffering can harden or soften people. The narrator's promise of a later revelation and of an upcoming grief gives the opening an anticipatory, slightly melancholy tone, so the cheerful surface is overshadowed by the sense that the fragile balance will soon break.",
+  "illustration": {
+    "error": "Anthropic / Claude does not generate images, so the atlas has no illustration. Choose OpenAI / GPT to generate it."
+  },
+  "animation": {
+    "error": "Anthropic / Claude does not generate images, so the atlas has no animation. Choose OpenAI / GPT to generate it."
+  }
+}

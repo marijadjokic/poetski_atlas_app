@@ -1,0 +1,60 @@
+{
+  "provider": "Anthropic / Claude",
+  "model": "claude-sonnet-5-5",
+  "language": "English",
+  "text": "Spellbound \n\nThe night is darkening round me,\nThe wild winds coldly blow;\nBut a tyrant spell has bound me\nAnd I cannot, cannot go.\n\nThe giant trees are bending\nTheir bare boughs weighed with snow.\nAnd the storm is fast descending,\nAnd yet I cannot go.\n\nClouds beyond clouds above me,\nWastes beyond wastes below;\nBut nothing drear can move me;\nI will not, cannot go.",
+  "elements": {
+    "space": [
+      "An open, wintry outdoor landscape in which the speaker stands fixed in one spot, never named but constantly implied by the repeated 'I cannot go'.",
+      "Giant trees around the speaker, bending under the weight of snow, their boughs bare and heavy with it.",
+      "A vertical, layered cosmos: heaped clouds stretching endlessly overhead ('clouds beyond clouds') and bleak, empty wastes stretching endlessly below ('wastes beyond wastes'), so the speaker is enclosed between sky and ground.",
+      "A space of wild, cold wind and an approaching storm, with no shelter, path, house or destination shown. The place the speaker might go to is never described."
+    ],
+    "time": [
+      "Night, which is darkening as the poem begins: the poem opens at dusk and moves toward deeper darkness.",
+      "Winter, shown by snow on the branches, bare boughs and cold winds.",
+      "A storm that is 'fast descending', so time feels pressed and the danger is coming nearer from one stanza to the next.",
+      "A suspended present moment: the speaker's state does not change across the three stanzas, and the conditions worsen while the refusal or inability to leave stays the same."
+    ],
+    "characters_or_voices": [
+      "A single first-person lyrical speaker who stays rooted in place, bound by a 'tyrant spell' and unable or unwilling to leave.",
+      "The 'tyrant spell', an unseen, personified controlling force. It may be read as magic, love, loyalty, memory, or the speaker's own will, but the text never says what it is.",
+      "The natural elements (the winds, the giant trees, the storm, the clouds) act as a silent, threatening chorus that surrounds the speaker but does not speak.",
+      "No other human figures appear. The speaker is alone and has no addressee."
+    ],
+    "motifs": [
+      "Being bound or enchanted: the 'tyrant spell' that holds the speaker in place.",
+      "Inability to leave, repeated in every stanza ('I cannot, cannot go', 'And yet I cannot go', 'I will not, cannot go').",
+      "Darkness and gathering storm: night, cold wind, heavy snow and descending storm, together forming a landscape of threat.",
+      "Bareness and burden: the bare boughs weighed down with snow, resembling the speaker's burdened endurance.",
+      "Endless, desolate vastness: clouds above clouds, wastes below wastes.",
+      "A shift from compulsion to will: the spell first 'binds' the speaker, but by the end the speaker says 'I will not, cannot go', which joins constraint with choice.",
+      "Steadfastness and defiance against 'nothing drear' that can move the speaker."
+    ],
+    "artistic_procedures": [
+      "Refrain: each stanza ends on a variation of 'I cannot go', creating a tolling, incantatory effect that echoes the spell itself.",
+      "Gradation and variation of the refrain, moving from 'I cannot, cannot go' to 'And yet I cannot go' to 'I will not, cannot go', so the sense of compulsion changes into resolve.",
+      "Personification: the spell is a 'tyrant', the trees 'bend' and the storm 'descends' as if they were agents.",
+      "Parallelism and anaphoric repetition in 'Clouds beyond clouds... Wastes beyond wastes', which suggests infinity and the speaker's enclosure.",
+      "Antithesis and contrast between the escalating outer menace (dark, wind, snow, storm) and the speaker's unchanging inner immobility; the connective 'But' and 'And yet' marks the opposition.",
+      "Regular form: three quatrains with an alternating rhyme scheme (round / blow / bound / go; bending / snow / descending / go; me / below / me / go), in which 'go' and 'blow/snow/below' recur as insistent rhymes.",
+      "Sound and rhythm: short, simple, mostly monosyllabic lines in a ballad-like or song-like measure, with repeated sounds (the long 'o' of blow, go, snow, below) that create a spell-like, chanting music.",
+      "Imagery of cold and weight (bare boughs weighed with snow), appealing to touch and sight.",
+      "Hyperbole in the cosmic scale ('Clouds beyond clouds', 'giant trees'), which magnifies the outer forces the speaker resists."
+    ],
+    "atmosphere": [
+      "Gloomy, wintry and ominous, with darkness and storm closing in.",
+      "Tense and claustrophobic, despite the open landscape, because the speaker is held in place.",
+      "Incantatory and trance-like, as if the poem itself were a spell being repeated.",
+      "Stoic and defiant: the bleakness is met with fixed endurance rather than fear.",
+      "Ambiguous and enigmatic, because the cause of the binding and the destination left behind are never revealed."
+    ]
+  },
+  "elements_interpretation": "Taken together, the elements form an image of a lone figure standing motionless in a deepening winter night while a storm and an endless, desolate landscape press in from above and below. The environment grows more threatening, but the speaker's situation stays the same, and this contrast between outer escalation and inner stillness drives the poem. The 'tyrant spell' is left unexplained, so it remains open. Possible readings include an external enchantment, a bond of love or loyalty, grief or memory, a duty, or an inner compulsion; none of these is confirmed by the text. The refrain, which shifts from 'cannot' to 'will not, cannot', suggests a movement from being a captive to embracing the captivity, so that constraint and willed constancy blur together. The atmosphere is therefore at once oppressive and heroic, a chant of endurance in which the harshness of nature serves as a test of the speaker's fixity.",
+  "illustration": {
+    "error": "Anthropic / Claude does not generate images, so the atlas has no illustration. Choose OpenAI / GPT to generate it."
+  },
+  "animation": {
+    "error": "Anthropic / Claude does not generate images, so the atlas has no animation. Choose OpenAI / GPT to generate it."
+  }
+}

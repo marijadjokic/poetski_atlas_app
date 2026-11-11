@@ -7,8 +7,8 @@ Aplikacija omogućava:
 - izbor LLM provajdera i modela;
 - klik na **Kreiraj poetski atlas**;
 - prikaz poetskih elemenata: prostor, vreme, likovi/glasovi, motivi, umetnički postupci i atmosfera;
-- opis/prompt za ilustraciju i interpretaciju ilustracije;
-- opis/prompt za animaciju, storyboard i interpretaciju animacije;
+- fotorealističnu ilustraciju i njenu interpretaciju (samo OpenAI / GPT);
+- animaciju kao animirani GIF i njenu interpretaciju (samo OpenAI / GPT);
 - JSON izlaz pogodan za dalje čuvanje, korekciju ili poređenje modela.
 
 ## Pokretanje lokalno
@@ -43,7 +43,11 @@ Aplikacija može da radi u `Demo/offline` režimu bez ključeva. Za prave modele
 
 ## Napomena o ilustraciji i animaciji
 
-Osnovni rezultat aplikacije uvek sadrži prompt/opis za ilustraciju i animaciju, kao i njihove interpretacije. Stvarna slika se može opciono generisati preko OpenAI Images API-ja kada je uključen checkbox i kada je podešen `OPENAI_API_KEY`. Za animaciju prototip prikazuje HTML animatic/storyboard; za produkcijsku verziju može se dodati API za video-generisanje ili izvoz u MP4.
+Ilustraciju i animaciju generiše samo OpenAI / GPT, modelom za slike GPT Image 2.6 (`gpt-image-2.6-sunburst`; drugi model, npr. brži `gpt-image-2.6-flare`, može se zadati promenljivom `OPENAI_IMAGE_MODEL` u `.env`). Ilustracija je fotorealistična slika (JPEG), a animacija animirani GIF koji se ponavlja. Obe nastaju samo iz elemenata teksta, a zatim ih izabrani GPT model interpretira na osnovu same slike, odnosno kadrova animacije.
+
+Anthropic / Claude ne generiše slike, pa za njega aplikacija daje samo elemente teksta i njihovu interpretaciju; kartice Ilustracija i Animacija to i navode. To je ograničenje tog provajdera.
+
+Slike se čuvaju u JSON-u atlasa (base64), pa je sačuvani atlas veći nego ranije. Atlasi sačuvani ranije, sa SVG crtežima, i dalje se mogu učitati i prikazati.
 
 ## Ideja proširenja
 

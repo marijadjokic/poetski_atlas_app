@@ -1,0 +1,62 @@
+{
+  "provider": "Anthropic / Claude",
+  "model": "claude-sonnet-5-5",
+  "language": "English",
+  "text": "Der Asra \n\nTäglich ging die wunderschöne\nSultanstochter auf und nieder\nUm die Abendzeit am Springbrunn,\nWo die weißen Wasser plätschern.\n\nTäglich stand der junge Sklave\nUm die Abendzeit am Springbrunn,\nWo die weißen Wasser plätschern;\nTäglich ward er bleich und bleicher.\n\nEines Abends trat die Fürstin\nAuf ihn zu mit raschen Worten:\nDeinen Namen will ich wissen,\nDeine Heimath, deine Sippschaft!\n\nUnd der Sklave sprach: ich heiße\nMohamet, ich bin aus Yemmen,\nUnd mein Stamm sind jene Asra,\nWelche sterben wenn sie lieben.",
+  "elements": {
+    "space": [
+      "A fountain (Springbrunn) where white waters splash; this is the single, repeated location of every scene. It is a bounded, ritualized place of encounter, and the water is described as 'white' and audible (plätschern).",
+      "The implied setting is a ruler's domain, since the woman is a sultan's daughter and the man a slave. The text never describes a palace, garden or city. Only the fountain is fixed, and the court is implied by the social ranks.",
+      "The slave's far-off homeland, Yemmen (Yemen), is named only in his answer. It is an absent place of origin that stands in contrast to the fountain where he stands.",
+      "The princess's path 'up and down' (auf und nieder) beside the fountain marks out a small, pacing, repetitive space of movement, while the slave stands still at the same spot."
+    ],
+    "time": [
+      "Evening (Abendzeit) is named twice and is the recurring hour of both figures' presence at the fountain, a threshold time between day and night.",
+      "Daily repetition ('Täglich' opens the first two stanzas) sets a habitual, cyclical time in which nothing changes except the slave's growing pallor.",
+      "'Eines Abends' ('One evening') breaks the routine in stanza three and marks the turning point at which the princess speaks. The poem moves from habit to a single decisive event.",
+      "The time of the poem is gradual and progressive: the slave becomes 'paler and paler' over the days, a slow wasting that anticipates the death named in the last line.",
+      "The final stanza speaks in a timeless present ('sterben wenn sie lieben') about a lineage fate that lies beyond the evening scenes."
+    ],
+    "characters_or_voices": [
+      "The sultan's daughter (Sultanstochter, Fürstin): described as 'wunderschöne' (very beautiful), high-ranking, she walks up and down daily. She is the one who breaks the silence, and she does so with 'raschen Worten' (hasty, quick words), imperiously demanding the slave's name, homeland and kin.",
+      "The young slave: silent and still for most of the poem, daily standing at the fountain and growing ever paler. He finally gives his name, Mohamet, and his origin in Yemen, and thereby discloses the fate of his tribe.",
+      "The narrating voice: a third-person, compact, ballad-like narrator who reports the daily routine and the single evening scene without psychological commentary and without naming the slave's love.",
+      "The direct speech of the princess is a command, in an imperative-like series ('Deinen Namen will ich wissen...'). The slave's direct speech is a quiet, factual self-presentation that ends in revelation. The two voices contrast power and submission.",
+      "The collective figure of the Asra: a tribe, 'Stamm', defined by a single trait, that its members die when they love. The slave speaks for this community as much as for himself."
+    ],
+    "motifs": [
+      "Love that kills: the Asra 'die when they love', so that love and death are bound in one fate. The poem leaves the slave's love unspoken, and his pallor stands in for it.",
+      "Pallor and wasting ('bleich und bleicher'): the visible bodily sign of the slave's hidden passion and of approaching death.",
+      "Social distance between a princess and a slave, a barrier between high and low rank that makes the love impossible to declare.",
+      "The fountain and white water: a recurring, sounding, flowing image. It is a place of repetition and pure, pale color that echoes the slave's whiteness, and it also suggests the passing of time.",
+      "Names and origins: the princess asks for name, homeland and kin, and so seeks identity. Identity here turns out to be fate, since the tribal origin explains the death.",
+      "Watching and waiting at the same hour, a ritual of longing: she walks, he stands.",
+      "The Orient as setting (sultan, slave, Mohamet, Yemen), which gives the story a legendary, tale-like frame."
+    ],
+    "artistic_procedures": [
+      "Anaphora and refrain-like repetition: 'Täglich' begins two stanzas, and 'Um die Abendzeit am Springbrunn, / Wo die weißen Wasser plätschern' is repeated almost word for word in stanzas one and two, which creates a ritual, hypnotic rhythm.",
+      "Parallel construction of the first two stanzas: the princess walks, the slave stands, both at the same place and time. The mirrored structure shows two people in the same space who do not communicate.",
+      "Climax and delayed revelation: the information about the Asra comes only in the final line, and the poem ends on a pointed, epigram-like reveal that recasts everything before it.",
+      "Gradation / comparative: 'bleich und bleicher' expresses a steady intensification.",
+      "Direct speech set against narration: the narrative quiet of the first two stanzas is broken by the princess's direct address, then answered by the slave's.",
+      "Understatement and ellipsis: love is never named until the last line, and the princess's reaction to the answer is not given. The poem stops at the disclosure.",
+      "Ballad / folk-tale form: short four-line stanzas of regular, trochaic, unrhymed lines with a simple, song-like cadence, suggesting a romance or legend. The lines have a long, flowing movement.",
+      "Sound imagery: the onomatopoeic 'plätschern' of the water gives an acoustic background to the scene.",
+      "Title as frame: 'Der Asra' names the tribe's representative, so the title already points to the key to the story, which the reader understands only at the end."
+    ],
+    "atmosphere": [
+      "Melancholy, quiet and fated, with a sense of inescapable doom that builds slowly.",
+      "Twilight stillness with a hypnotic, ritual quality due to repetition and the sound of water.",
+      "Restrained, unspoken longing: the passion is visible only through bodily decline.",
+      "A legendary, oriental, fairy-tale tone, tender but cool in its telling.",
+      "Tension between the princess's quick, commanding approach and the slave's calm, tragic acceptance."
+    ]
+  },
+  "elements_interpretation": "The poem builds a small, closed world: one fountain, one evening hour, two figures who repeat their habits day after day. The first two stanzas are almost mirror images, with the princess moving and the slave standing, and the only change is the slave's growing pallor, which acts as the visible trace of a love that is never spoken. The shift from 'daily' to 'one evening' brings the princess's hasty questions about name, homeland and kin, and the slave's answer turns identity into destiny: his tribe, the Asra, dies when it loves. Possible interpretive directions, offered as possibilities and not as certainties: the poem may show love as a fatal condition inherited by a people and not a choice; the fountain's flowing white water may suggest time and wasting life, and echo the slave's pallor; the gap in rank may be what keeps the love silent, so that the princess learns of it only through his death-bound origin; and the abrupt ending, without her answer, may leave the reader with the tragic fact alone. The elements together create a melancholy, ritual, tale-like atmosphere in which repetition, understatement and a final revelation carry the meaning.",
+  "illustration": {
+    "error": "Anthropic / Claude does not generate images, so the atlas has no illustration. Choose OpenAI / GPT to generate it."
+  },
+  "animation": {
+    "error": "Anthropic / Claude does not generate images, so the atlas has no animation. Choose OpenAI / GPT to generate it."
+  }
+}

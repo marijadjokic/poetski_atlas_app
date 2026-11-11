@@ -1,17 +1,17 @@
-# Poetski atlas – AI aplikacija
+# Poetic Atlas – AI Application
 
-Ovo je prototip aplikacije za semi-automatizovano kreiranje poetskog atlasa.
-Aplikacija omogućava:
+This is a prototype application for the semi-automated creation of a poetic atlas.
+The application provides:
 
-- unos pesme ili proznog odlomka;
-- izbor LLM provajdera i modela;
-- klik na **Kreiraj poetski atlas**;
-- prikaz poetskih elemenata: prostor, vreme, likovi/glasovi, motivi, umetnički postupci i atmosfera;
-- fotorealističnu ilustraciju i njenu interpretaciju (samo OpenAI / GPT);
-- animaciju kao animirani GIF i njenu interpretaciju (samo OpenAI / GPT);
-- JSON izlaz pogodan za dalje čuvanje, korekciju ili poređenje modela.
+- input of a poem or a prose passage;
+- a choice of LLM provider and model;
+- a click on **Create Poetic Atlas**;
+- a display of the poetic elements: space, time, characters/voices, motifs, artistic devices and atmosphere;
+- a photorealistic illustration and its interpretation (OpenAI / GPT only);
+- an animation as an animated GIF and its interpretation (OpenAI / GPT only);
+- JSON output suitable for further storage, correction or comparison of models.
 
-## Pokretanje lokalno
+## Running locally
 
 ```bash
 python -m venv .venv
@@ -21,40 +21,40 @@ cp .env.example .env        # Windows: copy .env.example .env
 python app.py
 ```
 
-Zatim otvorite lokalni Gradio link koji se pojavi u terminalu.
+Then open the local Gradio link that appears in the terminal.
 
-## API ključevi
+## API keys
 
-Aplikacija može da radi u `Demo/offline` režimu bez ključeva. Za prave modele dodajte odgovarajući ključ u `.env`:
+The application can run in `Demo/offline` mode without keys. For real models, add the corresponding key to `.env`:
 
-- `OPENAI_API_KEY` za OpenAI / GPT;
-- `ANTHROPIC_API_KEY` za Anthropic / Claude;
-- `GOOGLE_API_KEY` ili `GEMINI_API_KEY` za Gemini;
-- `PERPLEXITY_API_KEY` za Perplexity;
-- `XAI_API_KEY` za Grok / xAI;
-- `OLLAMA_URL` za lokalni Meta/Llama režim preko Ollama.
+- `OPENAI_API_KEY` for OpenAI / GPT;
+- `ANTHROPIC_API_KEY` for Anthropic / Claude;
+- `GOOGLE_API_KEY` or `GEMINI_API_KEY` for Gemini;
+- `PERPLEXITY_API_KEY` for Perplexity;
+- `XAI_API_KEY` for Grok / xAI;
+- `OLLAMA_URL` for the local Meta/Llama mode via Ollama.
 
 ## Hugging Face Spaces
 
-1. Napravite novi Space sa SDK opcijom **Gradio**.
-2. Uploadujte fajlove `app.py`, `requirements.txt` i po želji `.env.example`.
-3. U **Settings → Secrets** dodajte API ključeve.
-4. Space će automatski pokrenuti `app.py`.
+1. Create a new Space with the **Gradio** SDK option.
+2. Upload the files `app.py`, `requirements.txt` and, optionally, `.env.example`.
+3. Add the API keys under **Settings → Secrets**.
+4. The Space will run `app.py` automatically.
 
-## Napomena o ilustraciji i animaciji
+## Note on the illustration and the animation
 
-Ilustraciju i animaciju generiše samo OpenAI / GPT, modelom za slike GPT Image 2.6 (`gpt-image-2.6-sunburst`; drugi model, npr. brži `gpt-image-2.6-flare`, može se zadati promenljivom `OPENAI_IMAGE_MODEL` u `.env`). Ilustracija je fotorealistična slika (JPEG), a animacija animirani GIF koji se ponavlja. Obe nastaju samo iz elemenata teksta, a zatim ih izabrani GPT model interpretira na osnovu same slike, odnosno kadrova animacije.
+The illustration and the animation are generated only by OpenAI / GPT, with the image model GPT Image 2.6 (`gpt-image-2.6-sunburst`; another model, e.g. the faster `gpt-image-2.6-flare`, can be set with the `OPENAI_IMAGE_MODEL` variable in `.env`). The illustration is a photorealistic image (JPEG), and the animation is a looping animated GIF. Both are created from the elements of the text alone, and the selected GPT model then interprets them from the image itself, or from the frames of the animation.
 
-Anthropic / Claude ne generiše slike, pa za njega aplikacija daje samo elemente teksta i njihovu interpretaciju; kartice Ilustracija i Animacija to i navode. To je ograničenje tog provajdera.
+Anthropic / Claude does not generate images, so with it the application provides only the elements of the text and their interpretation; the Illustration and Animation tabs say so. This is a limitation of that provider.
 
-Slike se čuvaju u JSON-u atlasa (base64), pa je sačuvani atlas veći nego ranije. Atlasi sačuvani ranije, sa SVG crtežima, i dalje se mogu učitati i prikazati.
+The images are stored in the atlas JSON (base64), so a saved atlas is larger than before. Atlases saved earlier, with SVG drawings, can still be loaded and displayed.
 
-## Ideja proširenja
+## Ideas for extension
 
-Za naučnu verziju preporučuje se dodavanje:
+For a scholarly version, it is recommended to add:
 
-- uporednog prikaza više modela za isti tekst;
-- ručne validacije i korekcije elemenata;
-- izvoza u CSV/JSON/RDF;
-- čuvanja rezultata po tekstu, modelu i datumu;
-- posebnog modula za arhaizme i nestandardne jezičke oblike.
+- a side-by-side comparison of several models for the same text;
+- manual validation and correction of the elements;
+- export to CSV/JSON/RDF;
+- storage of results by text, model and date;
+- a dedicated module for archaisms and non-standard linguistic forms.

@@ -1134,6 +1134,28 @@ def update_language(language: str):
     )
 
 
+# Shows the app in dark mode, whatever the system theme. Gradio 6 ignores the
+# ?__theme=dark URL parameter (its theme_mode, "system" by default, takes
+# precedence) and marks dark mode with the "dark" class on <body>, which it
+# also resets whenever the system theme changes. So the class is set here and
+# kept. ?__theme=light still opens the light theme.
+#
+# Gradio 6 adds this code to the page as a <script>, after the app has loaded;
+# it does not call it as a function, so the function calls itself.
+DARK_MODE_JS = """
+(() => {
+    if (new URLSearchParams(window.location.search).get("__theme") === "light") return;
+    const keepDark = () => {
+        if (!document.body.classList.contains("dark")) document.body.classList.add("dark");
+    };
+    keepDark();
+    new MutationObserver(keepDark).observe(document.body, {
+        attributes: true,
+        attributeFilter: ["class"],
+    });
+})();
+"""
+
 APP_THEME = gr.themes.Soft(
     font=[
         "Arial",
@@ -1328,4 +1350,4 @@ with gr.Blocks(title=APP_TITLE) as demo:
 
 if __name__ == "__main__":
     # Gradio 6 takes the theme and CSS in launch(), not in the Blocks constructor.
-    demo.launch(show_error=True, theme=APP_THEME, css=CUSTOM_CSS)
+    demo.launch(show_error=True, theme=APP_THEME, css=CUSTOM_CSS, js=DARK_MODE_JS)
